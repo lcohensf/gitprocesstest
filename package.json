@@ -1,0 +1,19 @@
+{
+  "name": "gitprocesstest",
+  "version": "0.0.1",
+  "description": "Simple web app to walk through publishing to github",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  	"type", "git",
+  	"url": "https://github.com/lcohensf/gitprocesstest.git"
+  },
+  "author": "Lynn Cohen",
+  "license": "MIT",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^4.8.0"
+  }
+}
